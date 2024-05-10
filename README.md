@@ -4,6 +4,19 @@
 
 Our project includes the following:
 
+### datasets
+
+| Name |  Nodes | Edges| Description|
+|:-----|:-----:|:-----:|:-----|
+| Arxiv | 34,546 | 420,877 | Citation network  | 
+| Facebook | 63,731 | 817,090 |  Social network | 
+| Dblp | 317,080 | 1,049,866 |  Collaboration network  | 
+| NotreDame | 325,729 | 1,090,108 |  Web graph | 
+| BerkStan | 685,230 | 6,649,470 |  Web graph | 
+| Youtube | 3,223,589 | 9,376,594 | Social network  | 
+| Skitter | 1,696,415 | 11,095,298 |  Internet graph  | 
+| LiveJournal | 3,997,962 | 34,681,189 |  Social network  |  
+
 ### preprocess
 
 Eliminate all parallel, self-loop, and directed edges, and generate fully dynamic graph streams for insertion-only graphs using various parameters.
