@@ -5,7 +5,7 @@
 
 ### datasets
 
-| Name |  Nodes | Edges| Description|
+| Name |  #Nodes | #Edges| Description|
 |:-----|:-----:|:-----:|:-----|
 | Arxiv | 34,546 | 420,877 | Citation network  | 
 | Facebook | 63,731 | 817,090 |  Social network | 
